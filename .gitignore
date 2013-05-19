@@ -4,5 +4,4 @@
 *.tif
 *.tiff
 *.raw
-bin/newglslDebug.app/*
 libs/
