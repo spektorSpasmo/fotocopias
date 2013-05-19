@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.gif
+*.tif
+*.tiff
+*.raw
+bin/newglslDebug.app/*
+libs/
